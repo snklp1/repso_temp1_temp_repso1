@@ -1,0 +1,97 @@
+.head_title
+{
+  width: 100%;
+  height: 80%;
+  background-color: #343A40;
+  margin: 0;
+  text-align: center;
+}
+
+
+.qst_p
+{
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-size: 1.5rem;
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.qst1
+{
+
+  padding: 10px;
+
+}
+
+
+#title_h1
+{
+  margin: 0;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 3.4em;
+}
+
+.inside_lined_blocks
+{
+  margin: 0;
+  padding: 0;
+  font-size: 1.5rem;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  margin-top: 20%;
+}
+
+body
+{
+  background-color: #343A40;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+.main_body
+{
+  background-color: black;
+  margin: 0;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+}
+
+.lined_blocks
+{
+  background-color: #DFEEEA;
+  width: 130px;
+  height: 130px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 15px;
+  border-color: #2F5D62;
+  border-width: 120px;
+}
+
+.onit
+{
+  background-color: #DFEEEA;
+  width: 130px;
+  height: 130px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 15px;
+  border-color: #2F5D62;
+  border-width: 120px;
+  opacity: 0.5;
+}
+
+.end
+{
+  background-color:#343A40;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  height: 120px;
+}
