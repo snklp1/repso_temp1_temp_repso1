@@ -20,6 +20,33 @@
 
 }
 
+.btn
+{
+  align-self: center;
+  width: 150px;
+  height: 150px;
+  background-color: #343A40;
+  display: inline-block;
+  border-radius: 10px;
+  border-width: thick;
+  border-style: solid;
+  border-color: white;
+}
+
+.dubdub
+{
+  align-self: center;
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  display: inline-block;
+  border-radius: 10px;
+  border-width: thick;
+  border-style: solid;
+  border-color: white;
+
+}
+
 .qst1
 {
 
@@ -51,6 +78,11 @@ body
   margin: 0;
   padding: 0;
   align-items: center;
+}
+
+.main_container
+{
+  text-align: center;
 }
 
 .main_body
